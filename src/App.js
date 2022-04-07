@@ -11,7 +11,7 @@ function App() {
         className = "App-logo"
         alt = "logo" / >
         <
-        p > Hello < /p> <
+        p > Hola < /p> <
         p >
         Edit < code > src / App.js < /code> and save to reload. <
         /p> <
